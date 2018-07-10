@@ -3,7 +3,7 @@ Questões dos juízes online - Online Judge Questions
 
 COMPETITIVE PROGRAMMING - MARATONA DE PROGRAMAÇÃO ICPC - ACM
 
-Hello Everybody! This is my Git wich contains all questions that i solved on my training for ICPC. Please, you can look, copy, even tell that you solved the question by yourself. Be free to do whatever you want. However, do not do this unless you've already UNDERSTOOD COMPLETELY why the code works fine. This is the most important part of the knowledge. You can email to me if you don't understand something and i'll try to help you. Thanks!
+Hello Everybody! This is my Git wich contains some questions that I solved on my training for ICPC. Please, you can look, copy, even tell that you solved the question by yourself. Be free to do whatever you want. However, do not do this unless you've already UNDERSTOOD COMPLETELY why the code works fine. This is the most important part of the knowledge. You can email to me if you don't understand something and I'll try to help you. Thanks!
 
 Greate code to everybody!!
 
