@@ -3,11 +3,11 @@ Questões dos juízes online - Online Judge Questions
 
 COMPETITIVE PROGRAMMING - MARATONA DE PROGRAMAÇÃO ICPC - ACM
 
-Hello Everybody! This is my Git wich contains some questions that I solved on my training for ICPC. Please, you can look, copy, even tell that you solved the question by yourself. Be free to do whatever you want. However, do not do this unless you've already UNDERSTOOD COMPLETELY why the code works fine. This is the most important part of the knowledge. You can email to me if you don't understand something and I'll try to help you. Thanks!
+Hello Everybody! This is my Git wich contains some (few) questions that I solved on my training for ICPC. Please, you can look, copy, even tell that you solved the question by yourself. Be free to do whatever you want. However, do not do this unless you've already UNDERSTOOD COMPLETELY why the code works fine. This is the most important part of the knowledge. You can email to me if you don't understand something and I'll try to help you. Thanks!
 
 Greate code to everybody!!
 
-Olá pessoal! Esse é o meu Git que contém todas as questões que eu resolvi durante meu treino para ICPC - Maratona de programação. Por favor, você pode olhar, copiar, até mesmo dizer que resolveu a questão por si mesmo. Sinta-se livre para fazer o que quiser. No entanto, não faça isso a menos que você tinha ENTENDIDO COMPLETAMENTE porquê o código funciona corretamente. Essa é a parte mais importante do conhecimento. Você pode enviar um email para mim caso não tenha entendido algo que eu tentarei te ajudar. Valeu!
+Olá pessoal! Esse é o meu Git que contém algumas (poucas) questões que eu resolvi durante meu treino para ICPC - Maratona de programação. Por favor, você pode olhar, copiar, até mesmo dizer que resolveu a questão por si mesmo. Sinta-se livre para fazer o que quiser. No entanto, não faça isso a menos que você tinha ENTENDIDO COMPLETAMENTE porquê o código funciona corretamente. Essa é a parte mais importante do conhecimento. Você pode enviar um email para mim caso não tenha entendido algo que eu tentarei te ajudar. Valeu!
 
 Welerson Melo
 welerson.a.melo@gmail.com
